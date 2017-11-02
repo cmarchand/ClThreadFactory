@@ -3,7 +3,7 @@
 
     <groupId>top.marchand.cp</groupId>
     <artifactId>cl-thread-factory</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <packaging>jar</packaging>
 
 
@@ -39,7 +39,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <cp.protocol.version>2.0-SNAPSHOT</cp.protocol.version>
+        <cp.protocol.version>2.0</cp.protocol.version>
     </properties>
 
 
